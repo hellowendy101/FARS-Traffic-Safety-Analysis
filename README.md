@@ -11,17 +11,16 @@ Fatal motor vehicle crashes remain an important transportation safety issue. Und
 
 ## Research Questions
 
-### Q1. When do fatal crashes occur most frequently during the week?
+### Q1 — Day / Time Pattern（2024）
+When do fatal crashes occur most frequently during the week?
 
-This question examines the distribution of fatal crashes across hours of the day and days of the week.
+### Q2. Weather Pattern（2024）
 
-### Q2. Among fatal crashes, what weather conditions were present?
+What weather conditions are most commonly reported among fatal crashes?
 
-This question examines the distribution of fatal crashes across different weather conditions.
+### Q3. Change Over Time（2020–2024）
 
-### Q3. How have fatal crash patterns changed over time?
-
-This question compares fatal crash patterns across 2020–2024 to identify changes over time.
+How have the timing patterns of fatal crashes changed from 2020 to 2024?
 
 ## Data
 
