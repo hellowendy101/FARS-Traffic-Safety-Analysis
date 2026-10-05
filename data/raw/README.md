@@ -1,6 +1,6 @@
 # Raw Data
 
-The raw data for this project come from the National Highway Traffic Safety Administration (NHTSA) Fatality Analysis Reporting System (FARS).
+The raw data are from the National Highway Traffic Safety Administration (NHTSA) Fatality Analysis Reporting System (FARS).
 
 FARS National CSV files were downloaded for 2020–2024. (The original raw files are retained locally and are not uploaded to this repository due to file size.)
 
