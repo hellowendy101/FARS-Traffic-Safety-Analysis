@@ -6,15 +6,19 @@ FARS National CSV files were downloaded for 2020–2024. (The original raw files
 
 ## Source
 
-National Highway Traffic Safety Administration (NHTSA)  
-Fatality Analysis Reporting System (FARS)
+National Highway Traffic Safety Administration (NHTSA)
+- Download Raw Data From FTP Site
+- Search "FARS"
+- Select year "2024"
+- Select "National"
+- Download "FARS2024NationalCSV.zip"
 
 Source Link:
 https://www.nhtsa.gov/research-data/fatality-analysis-reporting-system-fars
 
 ## Raw Files
-- FARS 2020 National CSV
-- FARS 2021 National CSV
-- FARS 2022 National CSV
-- FARS 2023 National CSV
-- FARS 2024 National CSV
+- FARS2020NationalCSV
+- FARS2021NationalCSV
+- FARS2022NationalCSV
+- FARS2023NationalCSV
+- FARS2024NationalCSV
