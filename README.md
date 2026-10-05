@@ -15,7 +15,7 @@ Fatal motor vehicle crashes remain an important transportation safety issue. Und
 
 This question examines the distribution of fatal crashes across hours of the day and days of the week.
 
-### Q2. How is weather associated with fatal crashes?
+### Q2. What weather conditions are most commonly associated with fatal crashes?
 
 This question examines the distribution of fatal crashes across different weather conditions.
 
