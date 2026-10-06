@@ -53,12 +53,7 @@ Fatal crashes are counted using the number of records in the FARS accident-level
 
 For the state-level analysis:
 
-\[
-\text{Fatal Crashes per 100,000 Residents}
-=
-\frac{\text{Fatal Crashes}}{\text{Population}}
-\times 100,000
-\]
+Fatal Crashes per 100,000 Residents = (Fatal Crashes / Population) times 100,000
 
 This measure adjusts the number of fatal crashes for differences in state population.
 
