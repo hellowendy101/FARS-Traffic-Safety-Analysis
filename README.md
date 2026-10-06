@@ -1,4 +1,4 @@
-# FARS Traffic Safety Analysis Project
+# Traffic Safety Project
 
 
 ## Overview
