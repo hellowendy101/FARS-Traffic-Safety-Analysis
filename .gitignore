@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Raw FARS data
+data/raw/FARS2020NationalCSV/
+data/raw/FARS2021NationalCSV/
+data/raw/FARS2022NationalCSV/
+data/raw/FARS2023NationalCSV/
+data/raw/FARS2024NationalCSV/
+
+# Raw data archives
+data/raw/*.zip~$*
